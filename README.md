@@ -17,3 +17,5 @@
 # masterも修正する
 
 # test-branch-6-1
+
+# test-branch-6-2
