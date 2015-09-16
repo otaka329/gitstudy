@@ -12,3 +12,6 @@
 # test-branch-5（master側のファイルを変更）
 # コンフリクト
 
+# test-branch-5
+# コンフリクト
+# masterも修正する
