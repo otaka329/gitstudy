@@ -15,3 +15,5 @@
 # test-branch-5
 # コンフリクト
 # masterも修正する
+
+# test-branch-6-1
