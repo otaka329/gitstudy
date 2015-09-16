@@ -8,3 +8,7 @@
 
 # test-branch-4
 # プルリク・その２
+
+# test-branch-5（master側のファイルを変更）
+# コンフリクト
+
